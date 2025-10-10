@@ -3,9 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.11.35327.3
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TocnoVrijeme", "TocnoVrijeme\TocnoVrijeme.csproj", "{173AB7F3-5E83-4094-86AA-1EB9BACBCFD8}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TocnoVrijeme", "TocnoVrijeme\TocnoVrijeme.csproj", "{173AB7F3-5E83-4094-86AA-1EB9BACBCFD8}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Inicijali", "Inicijali\Inicijali.csproj", "{FD159674-6C80-438B-BCFA-B6EFB6813438}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Inicijali", "Inicijali\Inicijali.csproj", "{FD159674-6C80-438B-BCFA-B6EFB6813438}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProsjekOcjena", "ProsjekOcjena\ProsjekOcjena.csproj", "{9C192D39-CF83-4980-A5BB-B3D15F017949}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +23,10 @@ Global
 		{FD159674-6C80-438B-BCFA-B6EFB6813438}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{FD159674-6C80-438B-BCFA-B6EFB6813438}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{FD159674-6C80-438B-BCFA-B6EFB6813438}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9C192D39-CF83-4980-A5BB-B3D15F017949}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9C192D39-CF83-4980-A5BB-B3D15F017949}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9C192D39-CF83-4980-A5BB-B3D15F017949}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9C192D39-CF83-4980-A5BB-B3D15F017949}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
