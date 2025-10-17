@@ -13,6 +13,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProsjekOcjena_TryParse", "P
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DatumiRodenja", "DatumiRodenja\DatumiRodenja.csproj", "{64CBA7C0-F978-4591-8579-5AE24C011C98}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DaniMjeseca", "DaniMjeseca\DaniMjeseca.csproj", "{553285B0-E486-4416-A8ED-65537FDC70BA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PogadanjeBroja", "PogadanjeBroja\PogadanjeBroja.csproj", "{E145C696-9E84-4021-A346-F29CD569CB9C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +43,14 @@ Global
 		{64CBA7C0-F978-4591-8579-5AE24C011C98}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{64CBA7C0-F978-4591-8579-5AE24C011C98}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{64CBA7C0-F978-4591-8579-5AE24C011C98}.Release|Any CPU.Build.0 = Release|Any CPU
+		{553285B0-E486-4416-A8ED-65537FDC70BA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{553285B0-E486-4416-A8ED-65537FDC70BA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{553285B0-E486-4416-A8ED-65537FDC70BA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{553285B0-E486-4416-A8ED-65537FDC70BA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E145C696-9E84-4021-A346-F29CD569CB9C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E145C696-9E84-4021-A346-F29CD569CB9C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E145C696-9E84-4021-A346-F29CD569CB9C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E145C696-9E84-4021-A346-F29CD569CB9C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
